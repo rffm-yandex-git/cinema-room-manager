@@ -1,0 +1,31 @@
+content:
+- Standard output
+- Values and variables
+- Val variables
+- Euclidean division
+- The classification of basic types
+- Type conversion
+- Invoking functions
+- Reading data with a readln
+- Characters
+- String basics
+- String templates
+- Boolean and logical operations
+- Integers in action
+- If expression
+- Repeating blocks
+- For loop and ranges
+- Work with MutableLists
+- For loop and lists
+- Multi-dimensional list
+- Comments
+- Declaring functions
+- When expression
+- Errors in programs
+- What is an exception
+- Hierarchy of exceptions
+- Ranges
+- Introduction to MutableList
+- Taming exceptions
+- The try-catch statement
+- Floating-point types
