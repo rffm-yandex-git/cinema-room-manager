@@ -75,6 +75,11 @@
       <module name="Cinema_Room_Manager_(Console)1.Topics-Invoking_functions-Square_root.main" target="8" />
       <module name="Cinema_Room_Manager_(Console)1.Topics-Invoking_functions-Subtraction_function.main" target="8" />
       <module name="Cinema_Room_Manager_(Console)1.Topics-Invoking_functions-Theory.main" target="8" />
+      <module name="Cinema_Room_Manager_(Console)1.Topics-Jumps_and_returns-Beyond_the_word.main" target="8" />
+      <module name="Cinema_Room_Manager_(Console)1.Topics-Jumps_and_returns-Correct_jumping.main" target="8" />
+      <module name="Cinema_Room_Manager_(Console)1.Topics-Jumps_and_returns-Getting_letters_from_the_Alphabet.main" target="8" />
+      <module name="Cinema_Room_Manager_(Console)1.Topics-Jumps_and_returns-Jumping_out.main" target="8" />
+      <module name="Cinema_Room_Manager_(Console)1.Topics-Jumps_and_returns-Theory.main" target="8" />
       <module name="Cinema_Room_Manager_(Console)1.Topics-Multi-dimensional_list-Corners.main" target="8" />
       <module name="Cinema_Room_Manager_(Console)1.Topics-Multi-dimensional_list-Correct_statements.main" target="8" />
       <module name="Cinema_Room_Manager_(Console)1.Topics-Multi-dimensional_list-Kotlin_lists.main" target="8" />
@@ -92,6 +97,7 @@
       <module name="Cinema_Room_Manager_(Console)1.Topics-Repeating_blocks-Print_a_string_exactly_ten_times.main" target="8" />
       <module name="Cinema_Room_Manager_(Console)1.Topics-Repeating_blocks-Repeat_by_value.main" target="8" />
       <module name="Cinema_Room_Manager_(Console)1.Topics-Repeating_blocks-Theory.main" target="8" />
+      <module name="Cinema_Room_Manager_(Console)1.Topics-Standard_output-Amount_on_the_account.main" target="8" />
       <module name="Cinema_Room_Manager_(Console)1.Topics-Standard_output-Correct_the_code.main" target="8" />
       <module name="Cinema_Room_Manager_(Console)1.Topics-Standard_output-First,_second,_third.main" target="8" />
       <module name="Cinema_Room_Manager_(Console)1.Topics-Standard_output-Theory.main" target="8" />
